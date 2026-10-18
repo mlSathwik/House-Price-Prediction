@@ -1,5 +1,8 @@
 # 🏠 House Price Prediction
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://house-price-prediction-js2ohw8ks6tocolxe5uta6.streamlit.app/)
+&nbsp;&nbsp;**Live Demo**: [https://house-price-prediction-js2ohw8ks6tocolxe5uta6.streamlit.app/](https://house-price-prediction-js2ohw8ks6tocolxe5uta6.streamlit.app/)
+
 An end-to-end machine learning project that predicts house prices using the
 Kaggle **Ames Housing** dataset (*House Prices: Advanced Regression Techniques*),
 with an interactive Streamlit web app.
@@ -33,6 +36,9 @@ with an interactive Streamlit web app.
 
 ## 🛠️ Tech Stack
 Python, pandas, NumPy, scikit-learn, XGBoost, SHAP, Plotly, Streamlit, pytest
+
+## 🌐 Live Web App
+👉 **[Open Live Application](https://house-price-prediction-js2ohw8ks6tocolxe5uta6.streamlit.app/)**
 
 ## 🚀 Run Locally
 ```bash
